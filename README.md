@@ -1,0 +1,2 @@
+This is a practice project which is a part of The Odin Project (https://www.theodinproject.com/lessons/foundations-recipes).
+It demonstrates the use of basic HTML to create a sample bare-bones website.
